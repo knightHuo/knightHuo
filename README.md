@@ -1,1 +1,1 @@
-![XingYuan Huo · knightHuo](assets/header.svg)
+![knightHuo](assets/header.svg)
