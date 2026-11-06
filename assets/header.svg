@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">XingYuan Huo · knightHuo</title>
+  <desc id="desc">Build useful things. Keep them clear. Simple tools, one terminal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142831"/><stop offset="1" stop-color="#224b47"/></linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c4d4c8" opacity=".10"/></pattern>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#dots)"/>
+  <path d="M78 74h34" stroke="#d9bd92" stroke-width="3" stroke-linecap="round"/>
+  <text x="128" y="79" fill="#b0c8bc" font-size="14" letter-spacing="3" font-family="Arial,sans-serif">KNIGHTHUO</text>
+  <text x="76" y="158" fill="#f1f2e9" font-size="55" font-weight="600" font-family="Arial,sans-serif">XingYuan Huo</text>
+  <text x="79" y="207" fill="#c3d2c6" font-size="23" font-family="Arial,sans-serif">Build useful things. Keep them clear.</text>
+  <text x="80" y="271" fill="#9db8aa" font-size="15" letter-spacing="1" font-family="Microsoft YaHei,PingFang SC,Arial,sans-serif">把想法做成工具，把复杂留给代码。</text>
+  <g fill="none" stroke="#a7c8b6" opacity=".22" stroke-width="2">
+    <rect x="976" y="85" width="154" height="154" rx="25" transform="rotate(13 1053 162)"/>
+    <rect x="995" y="104" width="116" height="116" rx="18" transform="rotate(13 1053 162)"/>
+    <path d="m1022 143 24 19-24 19m38 3h24" stroke="#d9bd92" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
